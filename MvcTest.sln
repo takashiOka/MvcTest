@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie", "MvcMovie\MvcMovie.csproj", "{6C132022-89BB-4AC3-BA6D-F7E646C3BE9B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcTest", "MvcMovie\MvcTest.csproj", "{6C132022-89BB-4AC3-BA6D-F7E646C3BE9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcMovie.Test", "MvcMovie.Tests\MvcMovie.Test.csproj", "{84075790-D814-4351-A956-398B6249C1BE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcTest.Test", "MvcMovie.Tests\MvcTest.Test.csproj", "{84075790-D814-4351-A956-398B6249C1BE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
